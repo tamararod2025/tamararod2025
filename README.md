@@ -2,7 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0076"/>
 <br>
 <div align="center">
-<b>`プログラマ`</b>
 <samp>
 <br>
       Hi there! I'm <b>Tamara</b>
@@ -10,7 +9,7 @@
 </div>
  
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493f1&width=900&size=22&center=true&lines=I+am+from+Portugal;I%27m+studying+Systems+Analysis+and+Development;I%27m+also+a+Designer;Welcome+to+my+profile!%22 alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493f1&width=900&size=22&center=true&lines=I+am+from+Portugal;I%27m+studying+Systems+Analysis+and+Development;I%27m+also+a+Designer;Welcome+to+my+profile! "alt="Typing SVG"/>
  
 </div>
  
@@ -22,11 +21,11 @@
 <br>
 <br>
 <div align="center">
-<img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tamararod2025&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka%22/>
-<img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamararod2025&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight%22/>
+<img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tamararod2025&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+<img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamararod2025&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
 <br>
 <br>
-<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamaraRodrigues&theme=tokyonight%22/>
+<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamararod2025&theme=tokyonight"/>
 </div>
  
   <div align="center" style="display: inline_block"><br>
@@ -96,9 +95,9 @@
  
 <br>
  
-<!--<div align="center">
-<img src="https://count.getloli.com/@lincolnhammed?name=lincolnhammed&theme=e621&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto%22  />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4493f1&height=100&section=footer%22/>
+<div align="center">
+<!--<img src="https://count.getloli.com/@lincolnhammed?name=lincolnhammed&theme=e621&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto%22  /> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0076&height=100&section=footer"/>
 </div>
- -->
+
  
