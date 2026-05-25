@@ -8,13 +8,15 @@
 
 ## 👩‍💻 Sobre Mim
 
-Olá! Sou a **Tamara**, uma entusiasta da tecnologia baseada em Portugal. Atualmente, curso **Análise e Desenvolvimento de Sistemas** com direcionamento absoluto para o **Back-end**. Sinto grande afinidade por lógica pura, arquitetura de soluções robustas, modelagem de bases de dados e otimização de performance.
+Olá! Sou a **Tamara**, apaixonada por tecnologia . Estou a trilhar o meu caminho em **Análise e Desenvolvimento de Sistemas**, tendo escolhido o ecossistema do **Back-end** como a minha especialidade. O meu dia a dia envolve destrinchar lógica de programação, estruturar arquiteturas eficientes e garantir a escalabilidade do software.
 
-* 🌱 Aprofundando conhecimentos em **Java** e no ecossistema **Spring Boot**.
-* ⚙️ Desenvolvendo APIs RESTful eficientes, seguras e com regras de negócio bem estruturadas.
-* 💻 Especial interesse em engenharia de software, microsserviços e de dados.
+* 🌱 Expandindo competências avançadas na stack **Java** + **Spring Boot**.
+    
+* ⚙️ Comprometida em escrever código limpo para construir APIs seguras e performantes.
+    
+*  💻 Domínio focado em regras de negócio complexas, arquitetura de servidores e bases de dados.
+
 * 💬 Sinta-se à vontade para explorar os meus repositórios ou entrar em contato para colaborações!
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -27,13 +29,11 @@ Olá! Sou a **Tamara**, uma entusiasta da tecnologia baseada em Portugal. Atualm
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🖥️ Core Back-end & Bancos de Dados
+### 🖥️ Back-end & Bancos de Dados
 <div align="left">
   <img width="45" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img width="45" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
-  <img width="45" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
   <img width="45" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
-  <img width="45" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### ⚙️ Ferramentas de Desenvolvimento
