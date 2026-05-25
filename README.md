@@ -1,22 +1,19 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=4B0076&text=Olá,%20eu%20sou%20a%20Tamara%20👋&fontAlign=50&fontAlignY=40&fontSize=36&fontColor=FFFFFF&animation=twinkling"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493f1&width=900&size=22&center=true&lines=Vivo+em+Portugal;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Focada+em+Backend+Development;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493f1&width=900&size=22&center=true&lines=Baseada+em+Portugal;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Focada+em+Backend+Development;Seja+bem-vindo(a)+ao+meu+perfil! " alt="Typing SVG"/>
 </div>
 
 ---
 
 ## 👩‍💻 Sobre Mim
 
-Olá! Sou a **Tamara**, apaixonada por tecnologia . Estou a trilhar o meu caminho em **Análise e Desenvolvimento de Sistemas**, tendo escolhido o ecossistema do **Back-end** como a minha especialidade. O meu dia a dia envolve destrinchar lógica de programação, estruturar arquiteturas eficientes e garantir a escalabilidade do software a partir do servidor.
+Olá! Sou a **Tamara**, uma entusiasta da tecnologia baseada em Portugal. Atualmente, curso **Análise e Desenvolvimento de Sistemas** com direcionamento absoluto para o **Back-end**. Sinto grande afinidade por lógica pura, arquitetura de soluções robustas, modelagem de bases de dados e otimização de performance.
 
-  🌱 Expandindo competências avançadas na stack **Java** + **Spring Boot**.
-    
-⚙️ Comprometida em escrever código limpo para construir APIs seguras e performantes.
-    
- 💻 Domínio focado em regras de negócio complexas, arquitetura de servidores e bases de dados.
-
-💬 Sinta-se à vontade para explorar os meus repositórios ou entrar em contato para colaborações!
+* 🌱 Aprofundando conhecimentos em **Java** e no ecossistema **Spring Boot**.
+* ⚙️ Desenvolvendo APIs RESTful eficientes, seguras e com regras de negócio bem estruturadas.
+* 💻 Especial interesse em engenharia de software, microsserviços e persistência de dados.
+* 💬 Sinta-se à vontade para explorar os meus repositórios ou entrar em contato para colaborações!
 
 ---
 
@@ -24,12 +21,12 @@ Olá! Sou a **Tamara**, apaixonada por tecnologia . Estou a trilhar o meu caminh
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tamararod2025&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamararod2025&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
 </div>
 
 <br>
 
 <div align="center">
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamararod2025&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
   <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamararod2025&theme=tokyonight"/>
 </div>
 
@@ -41,13 +38,18 @@ Olá! Sou a **Tamara**, apaixonada por tecnologia . Estou a trilhar o meu caminh
 <div align="left">
   <img width="45" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img width="45" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
+  <img width="45" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
   <img width="45" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+  <img width="45" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
+### ⚙️ Ferramentas de Desenvolvimento
+<div align="left">
+  <img width="45" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> 
+  <img width="45" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
+</div>
 
-### ⚙️ Ferramentas de Desenvolvimento <div align="left"> <img width="45" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> <img width="45" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img width="45" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> </div>
-
-### 🌐 Conhecimentos Básicos
+### 🌐 Conhecimentos Acadêmicos / Secundários
 <div align="left">
   <img width="45" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
   <img width="45" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
@@ -63,7 +65,7 @@ Olá! Sou a **Tamara**, apaixonada por tecnologia . Estou a trilhar o meu caminh
   <a href="mailto:tamaramayer2014@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="tamararod2025" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
