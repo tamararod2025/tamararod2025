@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=4B0076&text=Olá,%20eu%20sou%20a%20Tamara%20👋&fontAlign=50&fontAlignY=40&fontSize=36&fontColor=FFFFFF&animation=twinkling"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493f1&width=900&size=22&center=true&lines=Vivo+em+Portugal;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Focada+em+Backend+Development;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493f1&width=1000&size=22&center=true&lines=Vivo+em+Portugal;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Focada+em+Backend+Development;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
 ---
