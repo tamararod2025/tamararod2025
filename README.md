@@ -59,7 +59,7 @@ Olá! Sou a **Tamara**, apaixonada por tecnologia . Estou a trilhar o meu caminh
   <a href="mailto:tamaramayer2014@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[tamara-rrodrigues](https://www.linkedin.com/in/tamara-rrodrigues/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tamara-rrodrigues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
